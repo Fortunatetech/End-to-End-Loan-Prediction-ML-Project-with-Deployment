@@ -28,3 +28,4 @@ Generating Insights: Once the final model is selected, we can analyze the featur
 
 ## Conclusion:
 Predicting loan status using machine learning techniques offers an innovative approach to enhance the decision-making process for lending institutions. By leveraging historical loan data and advanced algorithms, financial institutions can make more informed choices about loan approval, minimizing risk and optimizing their lending portfolio. This project demonstrates the potential of data-driven insights to transform the lending industry and ensure that borrowers are provided with the best possible loan options.
+
